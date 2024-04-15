@@ -36,38 +36,15 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 
 ### Program : 
-DART studio screen shots for linear interpolation 
-
-
-
-
-
-
-
-
-
-DART studio screen shots for joint interpolation 
-
-
-
-
-
-
-
+DART studio screen shots for linear interpolation and joint interpolation 
+![WhatsApp Image 2024-04-15 at 2 31 08 PM](https://github.com/Vaish-1011/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/135130074/6290beaf-55a1-4865-8888-e3fda8f39373)
 
 ### Robot movements 
 
+![WhatsApp Image 2024-04-15 at 2 31 09 PM](https://github.com/Vaish-1011/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/135130074/ec643bef-2d7f-4b09-ae76-e16f7dca6c1d)
 
-
-
-
-
-
-
-
-
-
-
+![WhatsApp Image 2024-04-15 at 2 31 09 PM (1)](https://github.com/Vaish-1011/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/135130074/647b0eb2-a9fa-407f-a057-f9f9861d691f)
 
 
 ### Results:  
+ Thus the linear and joint interpolation of industrial manipulator is developed using program .
